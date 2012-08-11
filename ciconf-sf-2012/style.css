@@ -1,0 +1,42 @@
+.content.other {
+	background: url(other.png);
+}
+
+.content.system {
+	background: url(system.png);
+}
+
+.content.database {
+	background: url(database.png);
+}
+
+.content.php {
+	background: url(php.png);
+}
+
+.content.javascript {
+	background: url(javascript.png);
+}
+
+.content.css {
+	background: url(css.png);
+}
+
+.content.important h1 {
+	color: #990000;
+}
+
+.content {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+}
+
+/* first */
+
+.content.first h1 {
+	margin-top: 324px;
+	height: 48px;
+}
